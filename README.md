@@ -64,15 +64,17 @@ A machine learning web application that predicts stock prices using multiple ML 
 
 ### 🔹 User Interface
 
-![UI](screenshots/app_ui.png)
+![UI](screenshots/main_ui.png)
 
 ### 🔹 Model Selection
 
 ![Model](screenshots/model_selection_1.png)
+![Model](screenshots/model_selection_2.png)
 
 ### 🔹 Prediction Result
 
 ![Result](screenshots/prediction_result_1.png)
+![Result](screenshots/prediction_result_2.png)
 
 ---
 
@@ -164,7 +166,7 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 Your Name  
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Vikash-s-code
 
 ---
 
